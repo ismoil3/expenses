@@ -1,0 +1,6 @@
+# Скриптҳо ва конфигҳои Docker ҳамеша бо LF — контейнер Linux аст.
+# Бо CRLF контейнер бо хатои `bad interpreter` меафтад.
+*.sh                text eol=lf
+Dockerfile          text eol=lf
+nginx.conf          text eol=lf
+docker-compose.yml  text eol=lf

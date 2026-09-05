@@ -1,0 +1,4 @@
+# Конфигҳои Docker ва nginx ҳамеша бо LF — контейнер Linux аст.
+*.sh        text eol=lf
+Dockerfile  text eol=lf
+nginx.conf  text eol=lf

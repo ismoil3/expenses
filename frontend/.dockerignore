@@ -1,0 +1,21 @@
+# Сирҳо
+.env
+.env.*
+!.env.example
+
+# Вобастагиҳо ва билд — дар образ аз нав сохта мешаванд
+node_modules/
+dist/
+dist-ssr/
+.vite/
+*.tsbuildinfo
+
+# Git ва ҳуҷҷатҳо
+.git/
+.gitignore
+README.md
+
+# Худи Docker
+Dockerfile
+.dockerignore
+docker-compose.yml
